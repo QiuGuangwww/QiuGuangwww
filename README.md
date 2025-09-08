@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @QiuGuangwww
 - 👀 I’m interested in Python and C
-- 🌱 I’m currently learning Python and cpp
-- 💞️ I’m looking to collaborate on cpp contest
+- 🌱 I’m currently learning Deep Learning
+- 💞️ I’m looking to collaborate on DL Research(like CV and NLP...)
 - 📫 How to reach me ：qiuguang753@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
