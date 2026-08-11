@@ -34,13 +34,7 @@ Embodied AI · Vision-Language-Action · Robot Learning
   <img alt="Commit activity by time" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=QiuGuangwww&theme=github&utcOffset=8">
 </picture>
 
-<br>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=QiuGuangwww&hide_border=true&theme=github-dark-blue">
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=QiuGuangwww&hide_border=true&theme=default">
-  <img alt="QiuGuang's contribution streak" src="https://streak-stats.demolab.com?user=QiuGuangwww&hide_border=true&theme=default">
-</picture>
 
 </div>
 
