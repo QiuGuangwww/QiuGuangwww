@@ -40,4 +40,4 @@ Embodied AI · Vision-Language-Action · Robot Learning
 
 ## Contribution activity
 
-[![QiuGuang's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=QiuGuangwww&theme=github-compact&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![QiuGuang's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=QiuGuangwww&bg_color=ffffff&color=24292f&line=0969da&point=1f6feb&area=true&hide_border=true)](https://github.com/QiuGuangwww)
