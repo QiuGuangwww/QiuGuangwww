@@ -34,10 +34,16 @@ Embodied AI · Vision-Language-Action · Robot Learning
   <img alt="Commit activity by time" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=QiuGuangwww&theme=github&utcOffset=8">
 </picture>
 
-
-
 </div>
 
 ## Contribution activity
 
-[![QiuGuang's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=QiuGuangwww&bg_color=ffffff&color=24292f&line=0969da&point=1f6feb&area=true&hide_border=true)](https://github.com/QiuGuangwww)
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=QiuGuangwww&theme=github_dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=QiuGuangwww&theme=github">
+  <img alt="GitHub contribution activity" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=QiuGuangwww&theme=github">
+</picture>
+
+</div>
